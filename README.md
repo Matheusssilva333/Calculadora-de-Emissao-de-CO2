@@ -1,6 +1,5 @@
 # Calculadora de Emissões de CO2
-
-Projeto exemplo: calculadora de emissões de CO2 com frontend e backend.
+Este projeto teve como objetivo desenvolver uma calculadora de emissões de CO2 com o auxilio do Github Copilot para treinar as minhas habilidades.
 
 Estrutura:
 - backend/: API Node.js + Express
