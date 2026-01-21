@@ -35,7 +35,3 @@ API
       ],
       "total": 123.45
     }
-
-Observações
-- Os fatores de emissão no projeto são exemplos. Troque pelos fatores oficiais da sua região.
-- O backend é modular: adicione novos tipos/subtipos em `backend/utils/emissionFactors.js`.
